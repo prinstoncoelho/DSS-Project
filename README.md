@@ -1,6 +1,8 @@
 
 # 🔐 Digital Signature Authentication App (DSS-Based)
 
+## Demo Link: https://drive.google.com/file/d/1ygs3N7qcey2Efm04kItNkYt0Aem1qmCH/view?usp=sharing
+
 ## 📌 Abstract
 
 This project presents a full-stack web application for digitally signing and verifying messages using the Digital Signature Standard (DSS). It allows users to securely authenticate textual data, ensuring its integrity and origin. The front-end, built in React, offers a clean interface for user interaction, while the Flask-based back-end handles key generation, message signing, and signature verification using Python’s cryptography library.
@@ -54,16 +56,14 @@ In today’s digital world, verifying the authenticity and integrity of messages
     [Display Result + Save to LocalStorage]
 ```
 
-(*You can replace this with a proper flowchart image if desired.*)
 
----
 
 ## 💻 Implementation Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dss-auth-website.git
+git clone https://github.com/prinstoncoelho/dss-auth-website.git
 cd dss-auth-website
 ```
 
